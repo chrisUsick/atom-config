@@ -1,0 +1,22 @@
+"*":
+  "exception-reporting":
+    userId: "15b1fd5e-985b-9ece-ba6e-5af4002273a2"
+  welcome:
+    showOnStartup: false
+  core: {}
+  editor:
+    invisibles: {}
+  autosave:
+    enabled: true
+  "close-tags": {}
+  "inline-messenger":
+    showSeverityBadge: true
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  "language-elm":
+    elmOraclePath: "C:\\Users\\chris\\AppData\\Roaming\\npm\\elm-oracle"
+  "one-dark-ui": {}
+  "autoclose-html":
+    additionalGrammars: [
+      "*"
+    ]
